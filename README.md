@@ -1,1 +1,1 @@
-# os_lab2
+# Write a shell script , that prints shel scripting is fun on the screen!!
