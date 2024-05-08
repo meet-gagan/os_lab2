@@ -12,3 +12,5 @@
 
 # 5) Write a shell script that displays “man”,”bear”,”pig”,”dog”,”cat”,and “sheep” on the screen with each appearing on a separate line. Try to do this in as few lines as possible.
 <img width="501" alt="Screenshot 2024-05-06 at 6 08 21 PM" src="https://github.com/meet-gagan/os_lab2/assets/142775367/ccbc2630-18e5-4db9-91f9-43f20bf8ce47">
+
+# 6) write a shell script that prompts the user for a name of a file or directory and reports if it is a regular file, a directory, or another type of file. Also perform an ls command against the file or directory with the long listing option.
